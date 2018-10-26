@@ -6,6 +6,7 @@ text
 Creating a new branch is quicka AND simple.
 Switched to a new branch 'dev'.
 dev text.
+dev text2.
 
 
 
